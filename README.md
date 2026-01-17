@@ -19,4 +19,4 @@ around creator or genre? Are there specific videos or YouTubers which act as ’
 community are centered around? Through answering these questions, valuable analytic information
 will be uncovered which can help iceberg YouTubers with collaboration and marketing strategies.
 
-For more information about the methodology, read the attached paper.
+For more information about the methodology, read the attached paper, YTIcebergNetworks.pdf
